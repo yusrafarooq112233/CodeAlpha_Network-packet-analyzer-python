@@ -76,11 +76,9 @@ Run the program as Administrator (Windows) or Root (Linux).
 network-packet-analyzer-python/
 │
 ├── Packet_Capturing_Task1.py
-├── requirements.txt
 ├── README.md
 ├── LICENSE
-├── screenshots/
-└── docs/
+└── Report
 ```
 
 ---
